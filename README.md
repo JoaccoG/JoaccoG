@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying in the World's Best Bootcamp in 2021<br><br>🤝 Excited to work in the tech industry<br><br>🌱 Learning JavaScript, React, AJAX, JSON, Node.js, Express.js, NPM & MongoDB
+🔭 Currently studying in the World's Best Bootcamp in 2021<br><br>🤝 Excited to work in the tech industry<br><br>🌱 Learning JavaScript, TypeScript, React, AJAX, JSON, Node.js, Express.js, jQuery, NPM & MongoDB
 
 
 ## 🌐 Socials:
