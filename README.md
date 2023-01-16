@@ -10,8 +10,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 
-## 🐦 My twitter feed
-[![](https://gtce.itsvg.in/api?username=JoaccoDev)](https://gtce.itsvg.in)
+
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
