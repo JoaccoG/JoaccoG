@@ -5,8 +5,9 @@ I am a software development enthusiast. I started to get into the world of progr
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://joaquingodoy.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquingodoy2407@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin--godoy/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JoaccoDev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaccogodoy99)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JoaccoDev) 
 
 
 ## 💻 Tech Stack:
@@ -16,6 +17,5 @@ I am a software development enthusiast. I started to get into the world of progr
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 And many more to come...
 Currently studying in the [world's best bootcamp 2022](https://isdicoders.com/bootcamps/desarrollo-web-full-stack/?utm_source=google-ads&utm_medium=paid-search&utm_campaign=isdicoders_tck_paid-search_prospecting_google-ads_web_marca_Isdi-coders-2022_na-site-section_na-ad-size_na-served-type_na-princing).
