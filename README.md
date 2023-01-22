@@ -17,5 +17,7 @@ I am a software development enthusiast. I started to get into the world of progr
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 And many more to come...
+
 Currently studying in the [world's best bootcamp 2022](https://isdicoders.com/bootcamps/desarrollo-web-full-stack/?utm_source=google-ads&utm_medium=paid-search&utm_campaign=isdicoders_tck_paid-search_prospecting_google-ads_web_marca_Isdi-coders-2022_na-site-section_na-ad-size_na-served-type_na-princing).
