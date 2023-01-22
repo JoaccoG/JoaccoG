@@ -1,5 +1,7 @@
 ## 💫 About Me:
-I am a software development enthusiast. I started to get into the world of programming since I was 15 years old as a hobby with some friends developing a server within a game, when my friends and I got tired of the game we separated and I did not return to the world of programming until I was 21 years old. In the middle of the COVID-19 quarantine, I started self-taught and quickly fell in love with the world of software development. I realized at some point that this is what I wanted to do. Today I am studying, reading and learning to become a good developer and join the tech industry.
+I am a software development enthusiast. I started to get into the world of programming since I was 15 years old as a hobby with some friends developing a game server so people can join and enjoy the game with us. When my friends and I got tired of the game we separated and I didn't program again until I was 21 years old. In the middle of the COVID-19 quarantine, I started to self-taught and quickly fell in love with the world of software development. At some point I realized that this is what I want to do with my life.
+
+Today I am studying, reading and learning to become a good developer and join the tech industry.
 
 
 ## 🌐 Socials:
