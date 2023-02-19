@@ -40,4 +40,4 @@ Nowadays I find myself studying, reading and learning as much as I can about sof
 And many more to come...
 <br>Currently studying in the [world's best bootcamp 2022](https://isdicoders.com/bootcamps/desarrollo-web-full-stack/?utm_source=google-ads&utm_medium=paid-search&utm_campaign=isdicoders_tck_paid-search_prospecting_google-ads_web_marca_Isdi-coders-2022_na-site-section_na-ad-size_na-served-type_na-princing).
 
-[GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaccoG)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JoaccoG&theme=react-dark)
