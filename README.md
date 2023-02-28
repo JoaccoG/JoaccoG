@@ -1,6 +1,6 @@
 ## 📝 About me.
 Software development enthusiast.
-<br>Full Stack Developer _(in progress)_.
+<br>Full Stack Developer.
 <br>Started to get into the world of programming since 15 years old as a hobby with friends, developing a game server for people to join. When my friends and I got tired of the game we split up and I didn't program again until I was 21 years old during the COVID-19 quarantine. I started to self-taught and quickly fell in love with the world of software development.<br>Then I realized that this is what I want to do with my life.
 
 Nowadays I find myself studying, reading and learning as much as I can about software.
@@ -30,7 +30,7 @@ Nowadays I find myself studying, reading and learning as much as I can about sof
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-#### CI/CD - Clean Code - Others
+### CI/CD - Clean Code - Others
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -46,8 +46,5 @@ Nowadays I find myself studying, reading and learning as much as I can about sof
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-And many more to come...
-<br>Currently studying in the [world's best bootcamp 2022](https://isdicoders.com/bootcamps/desarrollo-web-full-stack/?utm_source=google-ads&utm_medium=paid-search&utm_campaign=isdicoders_tck_paid-search_prospecting_google-ads_web_marca_Isdi-coders-2022_na-site-section_na-ad-size_na-served-type_na-princing).
 
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JoaccoG&theme=react-dark)
