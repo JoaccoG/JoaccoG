@@ -1,7 +1,7 @@
 ## 📝 About
 Hi! I'm Joaquín, Full Stack Developer.<br>
 As a passionate software developer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br>
-My journey started at the age of 15, when I developed a game server as a hobby with friends. Although we eventually moved on from the game, my curiosity for programming remained dormant until I turned 20, when I started to learn more and more about coding and rediscovered my love for software development.<br>
+My journey started at the age of 15, when I developed a game server as a hobby with friends. Although we eventually moved on from the game and abandoned the project 2 years later, my curiosity for programming remained dormant until I turned 20, when I started to learn more and more about coding and rediscovered my love for software development.<br>
 Now, I'm committed to pursuing this passion as a career and constantly expanding my knowledge by studying, reading and experimenting with new technologies.
 
 
