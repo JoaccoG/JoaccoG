@@ -1,9 +1,8 @@
 ## 📝 About
-Software development enthusiast.<br>
-Full Stack Developer.<br>
-Started to get into the world of programming since 15 years old as a hobby with friends, developing a game server for people to join. When my friends and I got tired of the game we split up and I didn't program again until I was 21 years old during the COVID-19 quarantine. I started to self-taught and quickly fell in love with the world of software development.<br>Then I realized that this is what I want to do with my life.
-
-Nowadays I find myself studying, reading and learning as much as I can about software.
+Hi! I'm Joaquín, Full Stack Developer.<br>
+As a passionate software developer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br>
+My journey started at the age of 15, when I developed a game server as a hobby with friends. Although we eventually moved on from the game, my curiosity for programming remained dormant until I turned 20, when I started to learn more and more about coding and rediscovered my love for software development.<br>
+Now, I'm committed to pursuing this passion as a career and constantly expanding my knowledge by studying, reading and experimenting with new technologies.
 
 
 ## 👥 Socials
@@ -13,6 +12,7 @@ Nowadays I find myself studying, reading and learning as much as I can about sof
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://joaquingodoy.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JoaccoDev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaccogodoy99)
+
 
 ## 💻 Stack
 > **Frontend**<br>
@@ -56,3 +56,9 @@ Nowadays I find myself studying, reading and learning as much as I can about sof
 ![EditorConfig](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
 
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JoaccoG&theme=react-dark)
+
+---
+
+> Check out my [Portfolio](https://www.joaquingodoy.com) &nbsp;&middot;&nbsp;
+> See my projects on [GitHub](https://github.com/joaccog) &nbsp;&middot;&nbsp;
+> Follow me on [Twitter](https://twitter.com/joaccodev)
