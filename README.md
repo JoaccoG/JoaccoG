@@ -50,7 +50,7 @@ Now, I'm committed to pursuing this passion as a career and constantly expanding
 
 <br>
 
-# :octocat: GitHub Activity
+# <img src="/pngwing.com.png" width= "40" /> GitHub Activity
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JoaccoG&theme=react-dark)
 
 ---
