@@ -5,6 +5,7 @@ As a passionate software developer, I'm always looking for new challenges to lea
 My journey started at the age of 15, when I developed a game server as a hobby with friends. Although we moved on from the game and abandoned the project 2 years later, my curiosity for programming remained dormant until I turned 20, when I started to learn more and more about coding and rediscovered my love for software development.<br><br>
 Now, I'm committed to pursuing this passion as a career and constantly expanding my knowledge by studying, reading and experimenting with new technologies.
 
+<br><br>
 
 # 💻 Tech Stack
 > **Frontend**<br>
@@ -47,6 +48,9 @@ Now, I'm committed to pursuing this passion as a career and constantly expanding
 ![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![EditorConfig](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
 
+<br>
+
+# :octocat: GitHub Activity
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JoaccoG&theme=react-dark)
 
 ---
