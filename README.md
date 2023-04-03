@@ -1,5 +1,5 @@
 ## 📝 About
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width= "400" align="right"/>
+<img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width= "400" align="right"/>
 Hi! I'm Joaquín, Full Stack Developer.<br><br>
 As a passionate software developer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br>
 My journey started at the age of 15, when I developed a game server as a hobby with friends. Although we moved on from the game and abandoned the project 2 years later, my curiosity for programming remained dormant until I turned 20, when I started to learn more and more about coding and rediscovered my love for software development.<br><br>
