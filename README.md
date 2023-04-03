@@ -1,4 +1,4 @@
-## 📝 About
+# 📝 About
 <img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width= "400" align="right"/>
 Hi! I'm Joaquín, Full Stack Developer.<br><br>
 As a passionate software developer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br>
@@ -6,16 +6,7 @@ My journey started at the age of 15, when I developed a game server as a hobby w
 Now, I'm committed to pursuing this passion as a career and constantly expanding my knowledge by studying, reading and experimenting with new technologies.
 
 
-## 👥 Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquingodoy2407@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin--godoy/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454876339330088991)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://joaquingodoy.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JoaccoDev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaccogodoy99)
-
-
-## 💻 Stack
+# 💻 Tech Stack
 > **Frontend**<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,4 +53,5 @@ Now, I'm committed to pursuing this passion as a career and constantly expanding
 
 > Check out my [Portfolio](https://www.joaquingodoy.com) &nbsp;&middot;&nbsp;
 > See my projects on [GitHub](https://github.com/joaccog) &nbsp;&middot;&nbsp;
-> Follow me on [Twitter](https://twitter.com/joaccodev)
+> Follow me on [Twitter](https://twitter.com/joaccodev) &nbsp;&middot;&nbsp;
+> I'm also on [Instagram](https://instagram.com/joaccog99)
