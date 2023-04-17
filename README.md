@@ -55,8 +55,10 @@ Now I'm committed to pursuing this passion as a career and constantly expanding 
 
 <br>
 
-## <img src="/pngwing.com.png" width= "40" /> GitHub activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JoaccoG&theme=react-dark)
+## <img src="/pngwing.com.png" width= "40" /> GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaccoG&theme=tokyonight" />
+</div>
 
 ---
 
