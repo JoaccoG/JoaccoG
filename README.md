@@ -4,7 +4,7 @@
 </div>
 
 ## 📝 About me
-<img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width= "400" align="right"/>
+<img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width="400" align="right"/>
 As a passionate software developer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br><br>
 My journey began at the age of 15, when I developed a Java-based server (using Eclipse IDE) for a game with two friends as a hobby. Although we moved on from it and abandoned the project 2 years later, my curiosity for programming remained dormant until I turned 20, that's when I started to learn more and more about coding and rediscovered my love for software development.<br><br>
 Now I'm committed to pursuing this passion as a career and constantly expanding my knowledge by studying, reading and experimenting with new technologies.
@@ -58,9 +58,9 @@ Now I'm committed to pursuing this passion as a career and constantly expanding 
 <br>
 
 ## <img src="/pngwing.com.png" width= "40" /> GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaccoG&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=tokyonight" />
+<div align="center" width="100%">
+  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaccoG&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=tokyonight" />
 </div>
 
 ---
