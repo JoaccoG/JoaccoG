@@ -62,11 +62,12 @@ Now I'm committed to pursuing this passion as a career and constantly expanding 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaccoG&theme=tokyonight" />
 </div>
 
-<br>
+---
 
 <p align="center">
-  I'm interested in contributing to <strong>open-source</strong> projects!<br>
-  Supporting the community and working with developers from all over the world sounds fascinating to me, so if you have something in mind, let's talk and build something great together!
+  I'm interested in contributing to <strong>open-source</strong> projects.<br>
+  Supporting the community and working with developers from all over the world sounds fascinating to me.<br>
+  So if you have something in mind, let's talk and build something great together!
 </p>
 
 ---
