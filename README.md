@@ -60,6 +60,7 @@ Now I'm committed to pursuing this passion as a career and constantly expanding 
 ## <img src="/pngwing.com.png" width= "40" /> GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaccoG&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=tokyonight" />
 </div>
 
 ---
