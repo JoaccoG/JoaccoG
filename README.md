@@ -1,5 +1,5 @@
 <div align='center'>
-  <h3>Hello world! I'm Joacco</h3>
+  <h3>Hi! I'm Joacco</h3>
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=ffffff&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Clean+Code+Follower;Passionate+Coder;Pragmatic+Programmer'/>
 </div>
 
