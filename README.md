@@ -3,7 +3,7 @@
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=ffffff&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Clean+Code+Follower;Passionate+Coder;Pragmatic+Programmer'/>
 </div>
 
-## 📝 About me
+## 📝 About me - _(know me better)_
 <img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width="400" align="right"/>
 As a passionate software developer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br><br>
 My journey began at the age of 15, when I developed a Java-based server (using Eclipse IDE) for a game with two friends as a hobby. Although we moved on from it and abandoned the project 2 years later, my curiosity for programming remained dormant until I turned 20, that's when I started to learn more and more about coding and rediscovered my love for software development.<br><br>
@@ -11,7 +11,7 @@ Now I'm committed to pursuing this passion as a career and constantly expanding 
 
 <br><br>
 
-## 💻 Tech stack
+## 💻 Tech stack - _(what I worked with)_
 > **Frontend**<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -73,7 +73,7 @@ Now I'm committed to pursuing this passion as a career and constantly expanding 
 
 <br>
 
-## <img src="/pngwing.com.png" width= "40" /> GitHub Stats
+## <img src="/pngwing.com.png" width= "40" /> GitHub Stats - _(I'm usually on GitLab)_
 <div align="center" width="100%">
   <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaccoG&theme=tokyonight" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=tokyonight" />
