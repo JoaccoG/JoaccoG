@@ -6,7 +6,7 @@
 ## 📝 About me
 <img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width="400" align="right"/>
 As a passionate software engineer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br><br>
-My journey began at the age of 15, when I developed a Java-based server (using Eclipse IDE) for a game with two friends as a hobby. Although we moved on from it and abandoned the "project" 2 years later, my curiosity for programming remained dormant until I turned 20, that's when I started to learn more and more about coding and rediscovered my love for software development.<br><br>
+My journey began at the age of 15, when I developed a Java-based server (using Eclipse IDE) for a game with two friends as a hobby. Although we moved on from it and abandoned the "project" 2 years later, my curiosity for programming remained dormant until I turned 18, that's when I started to learn more and more about coding and rediscovered my love for software development.<br><br>
 Nowadays, I'm fortunate enough to dedicate my professional career to this passion, where I constantly expand my knowledge studying, reading and experimenting with new technologies.
 
 <br><br>
