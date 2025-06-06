@@ -85,8 +85,8 @@ Nowadays, I constantly expand my knowledge studying, reading, listening to podca
 
 ## Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaccoG&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=ayu-mirage&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaccoG&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=ayu-mirage&hide_border=true" />
 </div>
 
 ---
