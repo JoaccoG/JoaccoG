@@ -13,7 +13,7 @@ Nowadays, I constantly expand my knowledge studying, reading, listening to podca
 
 <br><br>
 
-## 💻 Tech stack
+## Tech stack
 > **Programming Languages**<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -83,8 +83,8 @@ Nowadays, I constantly expand my knowledge studying, reading, listening to podca
 
 <br>
 
-## <img src="/pngwing.com.png" width= "40" /> GitHub Stats
-<div align="center" width="100%">
+## Stats
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaccoG&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=ayu-mirage&hide_border=true" />
 </div>
