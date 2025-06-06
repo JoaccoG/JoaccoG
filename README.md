@@ -5,9 +5,12 @@
 
 ## 📝 About me
 <img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width="400" align="right"/>
-As a passionate software engineer, I'm always looking for new challenges to learn, grow and contribute to the programming world.<br><br>
-My journey began at the age of 15, when I developed a Java-based server (using Eclipse IDE) for a game with two friends as a hobby. Although we moved on from it and abandoned the "project" 2 years later, my curiosity for programming remained dormant until I turned 18, that's when I started to learn more and more about coding and rediscovered my love for software development.<br><br>
-Nowadays, I'm fortunate enough to dedicate my professional career to this passion, where I constantly expand my knowledge studying, reading and experimenting with new technologies.
+I create Software, APIs, Websites, Backend Systems and Frontend Designs.<br>
+Currently based in Argentina, Buenos Aires.<br>
+My passions are music, video games and, of course, coding.<br>
+Working for GetGloby as a Ssr Full Stack Developer, although my long-term goal is to move into the videogames industry... I'll get there.<br><br>
+My journey began at 15 years old (2015), when I developed a Java-based server for a game with two friends as a hobby, where I programmed the server plugins and kept it running, and although we quit and abandoned the “project” 1 year later, my curiosity for programming had already awakened, and led me to enroll in Computer Science when I finished high school.<br><br>
+Nowadays, I constantly expand my knowledge studying, reading, listening to podcasts and experimenting with new technologies.
 
 <br><br>
 
@@ -81,9 +84,10 @@ Nowadays, I'm fortunate enough to dedicate my professional career to this passio
 
 <br>
 
-## <img src="/pngwing.com.png" width= "40" /> GitHub Stats _(using GitLab for work)_
+## <img src="/pngwing.com.png" width= "40" /> GitHub Stats
 <div align="center" width="100%">
-  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaccoG&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaccoG&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaccoG&theme=ayu-mirage&hide_border=true" />
 </div>
 
 ---
@@ -98,5 +102,4 @@ Nowadays, I'm fortunate enough to dedicate my professional career to this passio
 
 > Check out my [Portfolio](https://www.joaquingodoy.com) &nbsp;&middot;&nbsp;
 > See my projects on [GitHub](https://github.com/joaccog) &nbsp;&middot;&nbsp;
-> Follow me on [Twitter](https://twitter.com/joaccodev) &nbsp;&middot;&nbsp;
-> I'm also on [Instagram](https://instagram.com/joaccog99)
+> Follow me on [Instagram](https://instagram.com/joaccog99)
