@@ -1,6 +1,6 @@
 <div align='center'>
   <h3>Hi! I'm Joaco</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Clean+Code+Follower"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=750&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Builder+of+Digital+Things;Keeping+it+simple"/>
 </div>
 
 ## 📝 About me
