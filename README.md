@@ -13,7 +13,7 @@ Nowadays, I constantly expand my knowledge studying, reading, listening to podca
 
 <br>
 
-## Tech stack
+## 💻 Tech stack
 > **Languages**<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -77,7 +77,7 @@ Nowadays, I constantly expand my knowledge studying, reading, listening to podca
 
 <br>
 
-## Stats
+## 📊 Stats
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaccoG&theme=ayu-mirage&show_icons=true&border_radius=8&hide_border=true&hide=contribs,issues&show=prs_merged_percentage&include_all_commits=true&rank_icon=github&custom_title=Joaco%27s%20GitHub%20Stats&disable_animations=true" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaccoG&theme=ayu-mirage&show_icons=true&border_radius=8&hide_border=true&hide=html,css&langs_count=4&layout=compact" />
@@ -85,14 +85,13 @@ Nowadays, I constantly expand my knowledge studying, reading, listening to podca
 
 ---
 
-<p align="center">
-  I'm interested in contributing to <strong>open-source</strong> projects.<br>
-  Supporting the community and working with developers from all over the world sounds fascinating to me.<br>
-  So if you have something in mind, let's talk and build something great together!
-</p>
+<div align="center">
+  <p>
+    Check out my <a href="https://joaquingodoy.com" target="_blank" rel="noreferrer noopener">portfolio</a> &nbsp;&middot;&nbsp; 
+    See my projects on <a href="https://github.com/JoaccoG?tab=repositories" target="_blank" rel="noreferrer noopener">GitHub</a> &nbsp;&middot;&nbsp; 
+    Follow me on <a href="https://instagram.com/joacogodoy99" target="_blank" rel="noreferrer noopener">Instagram</a>
+  </p>
+</div>
 
 ---
 
-> Check out my [Portfolio](https://www.joaquingodoy.com) &nbsp;&middot;&nbsp;
-> See my projects on [GitHub](https://github.com/joaccog) &nbsp;&middot;&nbsp;
-> Follow me on [Instagram](https://instagram.com/joaccog99)
