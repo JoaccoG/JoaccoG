@@ -75,6 +75,7 @@ Nowadays, I constantly expand my knowledge studying, reading, listening to podca
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Contentful](https://img.shields.io/badge/contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
 
 <br>
 
