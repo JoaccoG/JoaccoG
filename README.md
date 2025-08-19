@@ -8,7 +8,7 @@
 
 Currently based in Argentina, Buenos Aires. I create Software, APIs, Websites, Backend Systems, Frontend Designs and IA Stuff.<br>
 My passions are music, videogames and, of course, coding. I never sleep. Working at [@GetGloby](https://github.com/multicultural-it) as a Ssr Full Stack Developer, although my long-term goal is to move into the video games industry.<br><br>
-My journey began at 15 years old (2015), when I developed a Java-based server for a game with two friends as a hobby, where I programmed the server plugins and kept it running, and although we quit and abandoned the “project” 1 year later, my curiosity for programming had already awakened, and led me to enroll in Computer Science when I finished high school.<br><br>
+My journey began at 15 years old (2015), when I developed a Java-based server for a game with two friends as a hobby, where I programmed the server plugins and kept it running, and although we quit and abandoned the “project” 1 year later, my curiosity for programming had already awakened and led me to enroll in Computer Science after I finished high school.<br><br>
 Nowadays, I constantly expand my knowledge studying, reading, listening to podcasts and experimenting with new technologies.
 
 <br>
