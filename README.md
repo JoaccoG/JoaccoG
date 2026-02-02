@@ -9,7 +9,7 @@
 I create Software: APIs, web apps, backend, frontend and IA stuff.<br>
 Passionate about music, video games and, of course, coding. I never sleep. Working at [@MarketFully](https://github.com/multicultural-it) as a Semi Senior Software Engineer, although my long-term goal is to move into the video games industry.<br><br>
 My journey began at 15 years old (2015), when I developed a Java-based server for a game with two friends as a hobby, where I programmed the server plugins and kept it running, and although we quit and abandoned the project 2 years later, my curiosity for programming was already there and led me to enroll in Computer Science after I finished high school.<br><br>
-Nowadays, I constantly expand my knowledge studying, reading, listening to podcasts and experimenting with new technologies all the time.
+Nowadays, I love studying, reading, listening to podcasts, and experimenting with new technologies all the time.
 
 <br>
 
