@@ -88,8 +88,8 @@ Nowadays, I love studying, reading, listening to podcasts, and experimenting wit
 
 ## 📊 Stats
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaccoG&theme=ayu-mirage&show_icons=true&border_radius=8&hide_border=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&custom_title=Joaco%27s%20GitHub%20Stats" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaccoG&theme=ayu-mirage&show_icons=true&border_radius=8&hide_border=true&hide=html,css&langs_count=4&layout=compact" />
+  <img height="140em" src="https://github-stats-extended.vercel.app/api?username=JoaccoG&custom_title=Joaco%27s%20GitHub%20Stats&show_icons=true&theme=ayu-mirage" />
+  <img height="140em" src="https://github-stats-extended.vercel.app/api/top-langs?username=JoaccoG&layout=compact&langs_count=4&theme=ayu-mirage" />
 </div>
 
 ---
