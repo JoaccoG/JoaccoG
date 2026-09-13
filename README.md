@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/ghH2IM8IvG9Hh6No0r/giphy.gif" width="400" align="right"/>
 
 I never sleep.<br>
-I create Software: APIs, apps, backend, frontend and IA stuff.<br>
+I create Software: APIs, apps, backend, frontend and AI stuff.<br>
 Passionate about music, video games and, of course, coding.<br>
 Working at [@MarketFully](https://github.com/multicultural-it) as an AI Engineer.<br><br>
 My journey began at 15 years old (2015), when I developed a Java-based server for a game with two friends as a hobby, where I programmed the server plugins and kept it running, and although we quit and abandoned the project 2 years later, my curiosity for programming was already there and led me to enroll in Computer Science after I finished high school.<br><br>
