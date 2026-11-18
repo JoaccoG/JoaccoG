@@ -9,7 +9,6 @@
 I never sleep.<br>
 I create Software: APIs, apps, backend, frontend and AI stuff.<br>
 Passionate about music, video games and, of course, software.<br>
-Working at [@MarketFully](https://marketfully.ai) as an AI Software Engineer.<br><br>
 My journey began at 15 years old (2014), when I developed a Java-based server for a game with two friends as a hobby, where I programmed the server plugins and kept it running, and although we quit and abandoned the project 2 years later, my curiosity for programming was already there and led me to enroll in Computer Science after I finished high school.<br><br>
 Nowadays, I love studying, reading, listening to podcasts, and experimenting with new technologies all the time.
 
